@@ -1,4 +1,4 @@
-## C# com SQL Server
+## Cadastro e Busca de Carros
 
 Atividade realizada no curso de Desenvolvimento de Sistemas com C#.
 
